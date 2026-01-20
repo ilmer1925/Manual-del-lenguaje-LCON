@@ -15,14 +15,14 @@ print(c)
 
 En JavaScript actual, en ambiente de Html    
 
-# <script>    
+# <script> #
     var a, b, c    
     a = parseInt(prompt("Ingrese el primer número: "))    
     b = parseInt(prompt("Ingrese el segundo número: "))    
     c = a + b    
     document.write("El valor de c = "+c)    
 
-</script> #
+# </script> #
 
 
 
@@ -35,11 +35,10 @@ Leer "El segundo número: ",b;
 c = a+b;    
 Imprimir "La suma es: ",c;    
 
-#
     
 
 
 ## Si Usted sólo sabe español, ¿Cuál de los lenguajes aprendería? ##
 
-Sin dudar elegiría el lenguaje LCON
+# Sin dudar elegiría el lenguaje LCON #
 
