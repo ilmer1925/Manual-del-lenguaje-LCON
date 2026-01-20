@@ -14,17 +14,19 @@ print(c)
 
 
 En JavaScript actual, en ambiente de Html    
-<script>    
+
+# <script>    
     var a, b, c    
     a = parseInt(prompt("Ingrese el primer número: "))    
     b = parseInt(prompt("Ingrese el segundo número: "))    
     c = a + b    
     document.write("El valor de c = "+c)    
-</script>    
+
+</script> #
 
 
 
-En el lenguaje que estamos presentando: Lenguaje LCON:    
+# En el lenguaje que estamos presentando: Lenguaje LCON: #
 Definir {    
 Var a,b: Entero;    
 }    
@@ -33,6 +35,7 @@ Leer "El segundo número: ",b;
 c = a+b;    
 Imprimir "La suma es: ",c;    
 
+#
     
 
 
