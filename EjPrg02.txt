@@ -1,0 +1,23 @@
+# Se lee dos números,
+# Se calcula su suma y producto
+# Se imprime el resultado
+
+Definir
+   {
+  Var msg: Cadena;
+  Var a, b: Entero;
+  Var c, d: Real;
+ }
+
+msg = "Segundo número: ";
+Leer "Primer numero: ",a;
+Leer "Segundo número: ",b;
+c=a+b;
+d=a*b;
+
+# Se imprime los resultados
+#
+Imprimir "a = ",a, " b = ",b;
+Imprimir "La suma: ",c;
+Imprimir "El producto: ",d;
+Imprimir "La suma: ",c, "\nEl producto: ",d;

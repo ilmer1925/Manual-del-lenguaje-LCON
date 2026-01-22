@@ -1,0 +1,11 @@
+Definir {
+Var a: Entero;
+Var B:     Real;
+}
+         a = 10;
+B =        15;
+#Leer "b: ",b;
+xSuma = a +         B;
+Imprimir a;
+Imprimir "b = "    ,    B;
+Imprimir "La suma es: ",      xSuma;
